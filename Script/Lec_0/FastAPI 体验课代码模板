@@ -1,0 +1,22 @@
+
+# 🛠️ 快速开发环境设置 Quick Setup Guide
+推荐工具 Recommended Tools:
+	•	编辑器：VS Code（推荐安装 Python 插件）
+	•	Python 环境：Python 3.10+
+	•	API 测试：Postman: https://www.postman.com/
+	•	模拟器（选用）：ModbusPal（Java-based）或 ModRSsim2
+
+# 1. 安装 FastAPI 和 Uvicorn（开发服务器）
+pip install fastapi uvicorn
+
+# 2. 创建文件 main.py，并复制课程代码, 指定到目标目录
+cd Secript/Lec_0
+# 3. 启动 FastAPI 项目（终端执行）
+uvicorn main:app --reload
+
+# 4. 浏览器访问 http://127.0.0.1:8000/docs 查看 API 文档
+
+🌐 Postman 测试说明 Postman Usage
+	•	打开 Postman，导入提供的 pump_api.postman_collection.json
+	•	测试 GET /status：查看设备状态
+	•	测试 POST /toggle：切换设备状态
