@@ -72,7 +72,7 @@ Hi! I’m Xiaoting — a full-stack software engineer and AI researcher with ove
 
 ---
 
-# 🧭 从 PLC 到 PC 控制系统开发 – 10 周实战课程介绍（简体中文）
+# 🧭 从 PLC 到 PC 控制系统开发 – 20节课实战课程介绍（简体中文）
 
 🚀 用 Python + FastAPI + Vue + SQL + Modbus，10 周带你从 PLC 工程师转型为现代控制系统开发者！
 
@@ -86,9 +86,6 @@ Hi! I’m Xiaoting — a full-stack software engineer and AI researcher with ove
 - 学习并应用 Modbus 通信控制装置
 
 ---
-
-# PLC→PC 控制系统转型实战课程（20 × 50 分钟）
-
 > **对象**：拥有 PLC 基础、无 Python 经验的工程师 / 学员。
 >
 > **结课能力**：
